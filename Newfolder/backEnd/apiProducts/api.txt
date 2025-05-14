@@ -1,0 +1,27 @@
+اسم دیتابیس : mobodigi
+اسم جدول محصولات : products
+
+
+api 1 : گرفتن همه محصولات
+request method : get
+http://localhost/Newfolder/backEnd/getProducts.php
+
+
+api 2 : گرفتن محصول با آیدی مورد نظر
+request method : get
+http://localhost/Newfolder/backEnd/getProducts.php/{id}
+
+
+api 3 : اضافه کردن محصول
+request method : post
+http://localhost/Newfolder/backEnd/addProducts.php
+
+
+api 4 : ادیت محصول
+request method : post
+http://localhost/Newfolder/backEnd/editProducts.php
+
+
+api 5 : حذف محصول
+request method : post
+http://localhost/Newfolder/backEnd/addProducts.php
