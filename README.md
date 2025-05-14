@@ -1,4 +1,4 @@
-Database name : mobodigi
+Database name : mobodigi \n
 Product table name : products
 
 
